@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently a Full Stack Coding Bootcamp student with Georiga Tech learning, HTML, CSS, JavaScript, JQuery, APIs, and more.
 -  ⚡ Fun fact: I geek out over the psychology behind web design and make pottery in my free time.
-- 💼 [View my professional portfolio!](https://alandry110.github.io/my-portfolio/)
+- 💼 [View my professional portfolio!](https://ashclandry.github.io/portfolio/)
